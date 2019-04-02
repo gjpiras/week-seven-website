@@ -1,0 +1,27 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1 {
+  font-family: serif;
+  font-size: 5em;
+
+}
+divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  width: 120.5px;}
+}
+
+button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
